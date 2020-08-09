@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning something useful 🤣
 - 👯 I’m updating my skills
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read and play cricket
+- ⚡ Fun fact: I love to read books, play cricket and hill climbing
 
 ### Connect with me:
 
