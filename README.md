@@ -1,7 +1,7 @@
 # Hi there, I'm Naveen 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on a **Android Application**!
+- 🔭 I’m currently working on **Git 😂**!
 - 🌱 I’m currently learning something useful 🤣
 - 👯 I’m updating my skills
 - 🥅 2020 Goals: Contribute more to Open Source projects
