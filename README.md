@@ -2,8 +2,6 @@
 
 ## I'm a Developer!
 - 🔭 I’m currently working on **Git 😂**!
-- 🌱 I’m currently learning something useful 🤣
-- 👯 I’m updating my skills
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books, play cricket and hill climbing
 
