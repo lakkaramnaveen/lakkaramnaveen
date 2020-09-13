@@ -39,6 +39,15 @@
 - _Movie management system_ [project2]
 
 
+<br />
+<br />
+
+[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=lakkaramnaveen&count_private=true&theme=buefy&show_icons=true)](https://github.com/lakkaramnaveen)
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakkaramnaveen&layout=compact)](https://github.com/lakkaramnaveen/)
+
+
 
 ---
 
