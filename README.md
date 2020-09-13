@@ -31,17 +31,6 @@
 <br />
 <br />
 
-
-
-### Projects and work:
-
-- _House and used car price prediction_ [project1]
-- _Movie management system_ [project2]
-
-
-<br />
-<br />
-
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=lakkaramnaveen&count_private=true&theme=buefy&show_icons=true)](https://github.com/lakkaramnaveen)
 </br>
 </br>
@@ -53,7 +42,3 @@
 
 
 [linkedin]: https://www.linkedin.com/in/naveen-kumar-lakkaram-56954313a/
-
-[project1]: https://github.com/lakkaramnaveen/HouseAndUsedCarPricePrediction
-
-[project2]: https://github.com/lakkaramnaveen/Sprint2Project
