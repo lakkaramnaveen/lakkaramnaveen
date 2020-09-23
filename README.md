@@ -1,7 +1,7 @@
 # Hi there, I'm Naveen 👋
 
 ## I'm a Developer!
-- 🔭 I’m currently working on **Angular 😂**!
+- 🔭 I’m currently working on **Java 😂**!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books, play cricket and hill climbing
 
