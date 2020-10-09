@@ -1,13 +1,13 @@
 # Hi there, I'm Naveen 👋
 
-## I'm a Developer!
+## I'm a Full Stack Web Developer!
 - 🔭 I’m currently working on **Java 😂**!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books, play cricket and hill climbing
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
