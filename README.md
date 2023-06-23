@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Web Developer!
 - 🔭 I’m currently working on **Java 😂**!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books, play cricket and hill climbing
 
 ### Connect with me:
