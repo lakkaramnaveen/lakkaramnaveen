@@ -3,7 +3,7 @@
 ## I'm a Full Stack Web Developer!
 - 🔭 I’m currently working on **Java 😂**!
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read books, run marathons and hill climbing
+- ⚡ Fun fact: I love to hit gym, read books, run marathons and hill climbing
 
 ### Connect with me:
 
