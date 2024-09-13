@@ -1,7 +1,7 @@
 # Hi there, I'm Naveen 👋
 
 ## I'm a Full Stack Web Developer!
-- 🔭 I’m currently working on **Java 😂**!
+- 🔭 I’m currently working on ** MLOPS, Full Stack 😂**!
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to hit gym, read books, run marathons and hill climbing
 
