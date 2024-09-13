@@ -34,4 +34,4 @@
 ---
 
 
-[linkedin]: https://www.linkedin.com/in/naveen-kumar-lakkaram-56954313a/
+[linkedin]: https://www.linkedin.com/in/lakkaramnaveen/
