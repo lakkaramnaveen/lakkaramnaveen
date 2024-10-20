@@ -1,6 +1,6 @@
 # Hi there, I'm Naveen Kumar Lakkaram 👋
 
-## I'm a Data Scientist + Full Stack Developer!
+## I'm a Full Stack Developer + Data Scientist!
 - 🔭 I’m currently working on ** MLOPS, Full Stack Web Development**!
 - 🥅 2025 Goals: Contribute more to Open Source projects, World tour
 - ⚡ Fun fact: I love to hit the gym, mentor, read books, run marathons, and hill-climbing
