@@ -4,9 +4,6 @@
 - 🔭 I’m currently working on ** Golang, Java Full Stack, MERN Stack **!
 - ⚡ Fun fact: I love to hit the gym, mentor, read books, run marathons, and hill-climbing
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
