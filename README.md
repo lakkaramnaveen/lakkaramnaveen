@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on ** Golang, Java Full Stack, MERN Stack **!
 - ⚡ Fun fact: I love to hit the gym, mentor, read books, run marathons, and hill-climbing
 
-
-
 <br />
 
 ### Languages and Tools:
@@ -25,9 +23,3 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakkaramnaveen&layout=compact)](https://github.com/lakkaramnaveen/)
 
-
-
----
-
-
-[linkedin]: https://www.linkedin.com/in/lakkaramnaveen/
