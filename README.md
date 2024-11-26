@@ -1,7 +1,7 @@
 # Hi there, I'm Naveen Kumar Lakkaram 👋
 
-## I'm a Full Stack Developer + Data Scientist!
-- 🔭 I’m currently working on ** Golang, Java Full Stack, MERN Stack **!
+## I'm a Full Stack Developer!
+- 🔭 I’m currently working on ** Creating a platform for medium-scale businesses **!
 - ⚡ Fun fact: I love to hit the gym, mentor, read books, run marathons, and hill-climbing
 
 <br />
