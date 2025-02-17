@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on ** Creating a platform for medium-scale businesses **!
 - ⚡ Fun fact: I love to hit the gym, mentor, read books, run marathons, hill-climbing, and cave-diving.
 - ⚡ Starting a new journey.
+- Building a startup.
 
 <br />
 
