@@ -1,6 +1,6 @@
 # Hi there, I'm Naveen Kumar Lakkaram 👋
 
-## I'm a Full Stack Developer!
+## I'm a Software Engineer!
 - 🔭 I’m currently working on ** Creating a platform for medium-scale businesses **!
 - ⚡ Fun fact: I love to hit the gym, mentor, read books, run marathons, hill-climbing, and cave-diving.
 - ⚡ Starting a new journey.
